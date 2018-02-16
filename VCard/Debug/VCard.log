@@ -1,0 +1,4 @@
+﻿  VCard.cpp
+c:\users\jonve\source\repos\vcard\vcard\vcard.cpp(18): warning C4305: 'initializing': truncation from '__int64' to 'int'
+c:\users\jonve\source\repos\vcard\vcard\vcard.cpp(18): warning C4309: 'initializing': truncation of constant value
+  VCard.vcxproj -> C:\Users\jonve\source\repos\VCard\Debug\VCard.exe

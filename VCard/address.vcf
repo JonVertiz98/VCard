@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:2.1
+N:Smith;John;;
+FN:John Smith
+TEL;TYPE=cell:2107971413
+TEL;TYPE=work:828102229
+TITLE:V.P. Dunder Mifflin
+ORG:Dunder Mifflin
+EMAIL:johnsmith37@yahoo.com
+NICKNAME:Johnny
+END:VCARD
